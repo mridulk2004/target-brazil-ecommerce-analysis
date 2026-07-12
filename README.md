@@ -77,7 +77,7 @@ Tables used:
 target-brazil-ecommerce-analysis/
 │
 ├── README.md
-├── target_brazil_analysis.sql
+├── target_query.sql
 ├── Target_Brazil_Ecommerce_Analysis_Report.pdf
 │
 ├── visualizations/
